@@ -158,4 +158,5 @@ void splitBill() {
         printf("==============================\n");
     }
 
+    printf("Kyy jago banget");
 }
